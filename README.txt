@@ -9,7 +9,7 @@ git clone https://github.com/earth9890/blinkit-assignment-backend.git
 
 Install packages
 bash
-cd blinkit-assignment-backend
+cd blinkit-assignment-backend-master
 npm install
 
 To run
