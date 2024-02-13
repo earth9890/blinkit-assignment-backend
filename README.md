@@ -12,7 +12,7 @@ git clone https://github.com/earth9890/blinkit-assignment-backend.git
 
 Install packages
 ```bash
-cd backend
+cd blinkit-assignment-backend
 npm install
 ```
 
